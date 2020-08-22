@@ -1,5 +1,5 @@
 # Introduction 
-This are the initial custom UI for Chevron's Azure AD B2C pilot implementation. The deployment was completed April 28, 2020.
+This are the initial custom UI for Azure AD B2C pilot implementation. The deployment was completed April 28, 2020.
 
 # Getting Started
 The web app is built and compiled using .NET Core template with .NET 3.1 as target framework.
