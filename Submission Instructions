@@ -1,1 +1,9 @@
-This is where we can put instructions on how to submit assignments.
+In the upper right corner, you see "Go to file", "Add file", and "Code"(in green). Click the "Add file" button.
+
+Click "Upload files".
+
+In the center, you see "Drag files here to add them to your repository Or choose your files".  Click "choose your files"(in blue).
+
+Locate the file you want to upload and click open. Make sure the filename has your name at the end, ex: 1.03oseguera.py
+
+Scroll to the bottom and click the button "Commit changes"(in green) to commit directly to the master branch.
