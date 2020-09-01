@@ -1,0 +1,5 @@
+print("I am a genie. You have three wishes. ")
+inputVar1 = input("What is your first wish? ")
+inputVar2 = input("What is your second wish? ")
+inputVar3 = input("What is your third wish? ")
+print("Your wishes are " + inputVar1 + ", " + inputVar2 + ", and " + inputVar3)
